@@ -1,6 +1,6 @@
 {
   "name": "com.cgvg.unity-essentials-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "CGVG Unity Essentials Toolkit",
   "description": "A collection of scripts useful in any Unity project",
   "unity": "2020.3",
