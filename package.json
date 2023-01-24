@@ -1,0 +1,17 @@
+{
+  "name": "com.cgvg.unity-essentials-toolkit",
+  "version": "1.0.0",
+  "displayName": "CGVG Unity Essentials Toolkit",
+  "description": "A collection of scripts useful in any Unity project",
+  "unity": "2020.3",
+  "keywords": [
+    "essentials",
+    "utilities",
+    "extensions"
+  ],
+  "author": {
+    "name": "Computer Graphics & Vision Group",
+    "email": "cgvg.dauin@polito.it",
+    "url": "https://areeweb.polito.it/ricerca/cgvg/"
+  }
+}
