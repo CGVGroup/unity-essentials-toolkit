@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using UnityEngine;
-using Directory = UnityEngine.Windows.Directory;
 
 namespace cgvg.EssentialsToolkit
 {
